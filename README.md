@@ -15,9 +15,18 @@ npm run dev
 # build for production with minification
 npm run build
 
+
 ```
+###add
+git add -u
+
+git commit -m "first commit"
+
+git push -u origin master
+
 
 ### Browser Support
+
 
 Modern browsers and Internet Explorer 10+.
 
